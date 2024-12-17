@@ -1,13 +1,7 @@
-# Polygon-NFT-marketplace
+# Bomb Crypto marketplace
 
-## Features
+The Bomb Crypto marketplace is a native NFT marketplace in the game Bomb Crypto where players can trade their bomber heroes
 
-- The React Framework for Production
-- Ethereum development environment for professionals
-- Automatically generate TypeScript bindings for smartcontracts while using Hardhat.
-- A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
-- clean HTML with component classes
-- standard for secure blockchain applications
 
 ## Install
 
